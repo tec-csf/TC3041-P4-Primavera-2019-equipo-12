@@ -1,3 +1,3 @@
 # TC3041-P4-Primavera-2019
 
-En este documento debe incluir el plantemaiento del problema diseñado así como la descripción de las mediciones, series, valores y etiquetas identificados en el problema.
+Se decidio desarrollar un sistema que pueda calcular el gasto de energía, la temperatura de un refrigerador y la temperatura de la casa todo por diferentes estados de México, además de que debemos de guardar la hora a la que estaban así para poder ver en que estados se gasta más energía y saber a que hora y cuando.
