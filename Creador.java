@@ -22,7 +22,7 @@ public class Creador {
 
         if(archivo.exists()) {
                 bw = new BufferedWriter(new FileWriter(archivo));
-
+                   bw.write("CREATE DATABASE IOT_database");
                 for(int i=0; i<=20000000; i++) {
                     int Estado=  random.nextInt(Estados.length);
                     int unix= random.nextInt(9999999)+100000;
@@ -62,7 +62,7 @@ public class Creador {
                
             else {
             bw = new BufferedWriter(new FileWriter(archivo));
-        
+            bw.write("CREATE DATABASE IOT_database");
             for(int i=0; i<=20000000; i++) {
                 int Estado=  random.nextInt(Estados.length);
                 int unix= random.nextInt(9999999)+100000;
