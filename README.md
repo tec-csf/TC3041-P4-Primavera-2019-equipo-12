@@ -9,3 +9,4 @@ Se decidio desarrollar un sistema que pueda calcular el gasto de energía, la te
 Es un programa escrito en java que usa unas librerías para poder escribir los datos en un archivo de texto, tiene 4 randoms para poder sacar los datos que ocupamos, entre ellos la mayoría de estados de la republica mexicana, mediciones de temperatura del 18 al 30 y las fechas están proporcionadas a partir del 1550000000 hasta el 1559999999.
 ###
 ### Visualizaciones en Grafana
+![](images/Grafana.png)
